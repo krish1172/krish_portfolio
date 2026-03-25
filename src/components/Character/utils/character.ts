@@ -77,3 +77,12 @@ const setCharacter = (
 };
 
 export default setCharacter;
+// const setCharacter = () => {
+//   const loadCharacter = async () => {
+//     return null;
+//   };
+
+//   return { loadCharacter };
+// };
+
+// export default setCharacter;
